@@ -1,6 +1,6 @@
 
 # Evilbytecode-Gate
-
+- https://t.me/+TRYMuOVDiWA4MjM0
 Evilbytecode-Gate provides two mechanisms for resolving System Service Numbers (SSNs) of Windows API functions:
 1. **Control Flow (CF) Way**: Using the Guard CF Table in `ntdll.dll`.
 2. **By Parsing NTOSKRNL.EXE**: Resolving SSNs by analyzing the kernel export table.
