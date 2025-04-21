@@ -50,3 +50,7 @@ ZwCreateThreadEx        | Not Found
 ## Note
 This project is a **Proof of Concept** (PoC) and is not intended for malicious purposes.
 EvilbytecodeGate wont get you every SSN, wouldnt really depend on it.
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
